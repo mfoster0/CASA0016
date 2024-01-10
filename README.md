@@ -12,4 +12,6 @@ Internet of Things, Connected Environments, Prototypying, Water Sensors
 The main objective initially was to have a deployable, standalone device that could sense and communicate current water quality. Due to time constraints, the scope was changed and a mobile device was built instead. Due to the initial direction being to deploy the device, some of the design decisions were driven by that and fitted around the later goal.
 
 ## Device in Action
+https://github.com/mfoster0/CASA0016/blob/main/Images/WaterSensor.mp4
+
 
