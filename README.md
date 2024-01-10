@@ -16,7 +16,7 @@ https://github.com/mfoster0/CASA0016/blob/main/Images/WaterSensor.mp4
 You may need to download the video. Current this one is too large for GitHub to play
 
 ## The Circuit
-![Circuit](https://github.com/mfoster0/CASA0016/assets/63725574/fe186b76-5e5c-43c3-89ab-5a9177abeed7)
+![Circuit](https://github.com/mfoster0/CASA0016/assets/63725574/56e7d74b-c70f-4213-8ef7-162a6e814f77)
 
 The circuit is powered by a 3.7V LiPo battery through the JST with a latching switch to connect the power. 
 The LCD connects to GND, VCC, SDA and SCL
