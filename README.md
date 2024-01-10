@@ -31,6 +31,7 @@ Three sensors are off-the-shelf components that can be purchased from multiple m
 The conductivity sensor is built based on [https://www.instructables.com/Arduino-Water-Pollution-Monitor![image](https://github.com/mfoster0/CASA0016/assets/63725574/c087c075-4fbe-4cca-9e2d-b6af792cdfbd)](https://www.instructables.com/
 Arduino-Water-Pollution-Monitor)https://www.instructables.com/Arduino-Water-Pollution-Monitor
 ** Note the variability on readings meant this sensor did not work to a point that it could be relied on for accurate readings
+![TurbidityCustomisation](https://github.com/mfoster0/CASA0016/assets/63725574/9eb1e0f5-ba2d-4de2-9745-06e191fecc7f)
 
 ## Code
 The code is straight forward. It constant iterates through sensors taking readings one sensors at a time every 5 seconds
@@ -65,6 +66,7 @@ A laser cut ply box was used to house the electronics. It was designed to work l
 
 The board was housed in an IP55 rated enclosure to shield from any water splashed during sampling.
 
+![OutsideClosed](https://github.com/mfoster0/CASA0016/assets/63725574/a6233607-cd88-4c3d-bdb7-bd8973760ef5)
 
 
 ## References used
